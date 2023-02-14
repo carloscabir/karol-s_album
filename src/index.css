@@ -1,0 +1,181 @@
+html {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  background-color: #242424;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+a {
+  font-weight: 500;
+  color: #d8bfd8;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #a593a5;
+}
+hr {
+  width: 70%;
+  margin: 5rem;
+}
+
+body {
+  margin: 0;
+  max-width: 100vw;
+  min-height: 100vh;
+  min-width: 100%;
+  overflow-x: hidden;
+}
+
+img,
+video {
+  width: 100%;
+  height: auto;
+}
+
+.app {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#root {
+  width: 100%;
+}
+
+.courier-new-fn {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 300;
+}
+
+/* album */
+.album {
+  width: 100%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.card {
+  position: relative;
+  left: 0;
+  width: 100%;
+  height: 33vw;
+
+  background-color: #111;
+  border: thin solid #000;
+  filter: blur(1px) opacity(0.7);
+
+  transition: all 700ms ease-in-out;
+}
+
+.card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.figure-card img {
+  position: absolute;
+  left: 0;
+  top: 0;
+
+  height: 100%;
+  width: 100%;
+
+  background-color: #111;
+  object-position: center;
+  object-fit: cover;
+}
+
+.container-content-modal img {
+  max-width: 45%;
+}
+
+.container-content-modal h4 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.container-content-modal {
+  border: thin solid #fff;
+  padding: 0.5rem;
+  min-height: 40vh;
+  max-height: 100%;
+}
+
+.figure-modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.figure-modal img {
+  align-self: flex-start;
+}
+
+.figc-modal {
+  align-self: flex-end;
+  text-align: end;
+}
+
+.figure-modal-end {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.figure-modal-end img {
+  align-self: flex-end;
+}
+
+.figc-modal-end {
+  align-self: flex-start;
+  text-align: start;
+}
+
+/* mediaqueries */
+
+@media screen and (min-width: 37.5em) {
+  .album {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .card {
+    height: 25vw;
+  }
+
+  .container-content-modal img {
+    max-width: 30%;
+  }
+}
+
+@media screen and (min-width: 48em) {
+  body {
+    width: 60%;
+  }
+
+  .album {
+    width: 60%;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .card {
+    height: 15vw;
+  }
+
+  .container-content-modal img {
+    max-width: 20%;
+  }
+}
