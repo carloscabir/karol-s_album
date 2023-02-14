@@ -187,8 +187,175 @@ const quotes = [
       "Tu y yo, yo con corte de cabello nuevo y tu igual de linda como siempre.",
   },
   {
-    date: "",
-    sentence: "",
+    date: "1 de Diciembre 2022",
+    sentence: "Es una lastima que perdi esa tan linda pulsera.",
+  },
+  {
+    date: "27 de Noviembre 2022",
+    sentence: "Nuestras dos manitas.",
+  },
+  {
+    date: "??? Agosto 2022",
+    sentence: "Tu sabes la fecha de estas fotos?, Yo lo perdí",
+  },
+  {
+    date: "1 Diciembre 2022",
+    sentence:
+      "Sali con la cara tan mal, y tu como siempre de preciosa!. Porque??",
+  },
+  {
+    date: "22 de Noviembre 2022",
+    sentence: "Like 🦢",
+  },
+  {
+    date: "??? Agosto?",
+    sentence: "Sin duda somos una linda pareja. (?)",
+  },
+  {
+    date: "27 de Noviembre 2022",
+    sentence: "My darkest hours",
+  },
+  {
+    date: "21 Noviembre",
+    sentence: "Tu haciendome un regalo, por cierto, lo amé.",
+  },
+  {
+    date: "??? Agosto",
+    sentence: "🤨😈",
+  },
+  {
+    date: "1 de Diciembre 2022",
+    sentence: "Dios como amo a esta chica.",
+  },
+  {
+    date: "21 de Noviembre 2022",
+    sentence:
+      "Creo que fue la primera vez que te vi con labial. Ya te dije que eres linda??🦜 ",
+  },
+  {
+    date: "??? Agosto 2022",
+    sentence:
+      "Apesar de que no te agrade mucho como se ve tu cabello, nunca olvides que para mí es de lo mas lindo que existe en la via lactea.",
+  },
+  {
+    date: "1 de Diciembre 2022",
+    sentence: "Hand over hand - Roland Faunte",
+  },
+  {
+    date: "21 de Noviembre 2022",
+    sentence: "Mas besoosss",
+  },
+  {
+    date: "??? Agosto 2022",
+    sentence: "Like.",
+  },
+  {
+    date: "1 de Diciembre 2022",
+    sentence: "Como me gusta cuando haces esa cara de perrito 🥺",
+  },
+  {
+    date: "19 de Noviembre 2022",
+    sentence: `
+    Harvey,
+    Nobody knows what I see,
+    Nobody knows I'm waiting,
+    Waiting for you to call`,
+  },
+  {
+    date: "??? Agosto 2022 ",
+    sentence: "🤨🤨🤨🤨",
+  },
+  {
+    date: "29 de Noviembre 2022",
+    sentence:
+      "POR QUE ME TOMAS FOTOS DISTRAIDOOOO????, por cierto, luces hermosa.",
+  },
+  {
+    date: "16 de Noviembre 2022",
+    sentence: "Un mes antes de aquel día, te amo.",
+  },
+  {
+    date: "??? Agosto 2022",
+    sentence: "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 😿",
+  },
+  {
+    date: "29 de Noviembre 2022 ",
+    sentence: "Soltera y sin compromiso, segun tú.",
+  },
+  {
+    date: "16 de Noviembre 2022",
+    sentence: "Ame esta.",
+  },
+  {
+    date: "???  Agosto",
+    sentence: "YO",
+  },
+  {
+    date: "16 de Noviembre 2022",
+    sentence: "Me siento muy afortunado de tenerte aquí sabes?",
+  },
+  {
+    date: "16 de Noviembre 2022",
+    sentence: "Nunca me he probado una falda xd",
+  },
+  {
+    date: "??? Agosto 2022",
+    sentence: "deja de tomarme fotos distraido por favor 😭",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence:
+      "Before I've wrote this, I watched the photos and I think that I really miss you love.",
+  },
+  {
+    date: "9 de Enero 2023",
+    sentence: "Tan lindos los dos.",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence:
+      "Amé ver Your Name contigo ese dia. Espero y se repita algo similar.",
+  },
+  {
+    date: "13 de Enero 2024",
+    sentence: "Yo como niño pequeño, nooooo",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Ya para porfavor 😭😭",
+  },
+  {
+    date: "9 de Enero 2023",
+    sentence: "Quieres ponerte una mascarilla conmigo algun dia?",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Sparkle.",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Ese dia me salieron granos, que inusual.",
+  },
+  {
+    date: "Collage",
+    sentence: "Un lindo collage de google para nosotros <3",
+  },
+  {
+    date: "12 de Enero 2023",
+    sentence: "i miss u",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Me encanto esta, salio esteril.",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Tu y karim, si no me equivoco jaja.",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence:
+      "Tu y tu linda sonrisa, en realidad sera tuya?, lo digo porque es tan linda que puede ser indepentiente",
   },
   {
     date: "",
