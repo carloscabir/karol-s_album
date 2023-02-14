@@ -96,66 +96,107 @@ const quotes = [
       "Tan linda como siempre, y mira, tienes un gorro tan lindo como tú.",
   },
   {
-    date: "29 de Noviembre",
+    date: "29 de Noviembre 2022",
     sentence: "La mas linda o no?",
   },
   {
-    date: "29 de Noviembre",
+    date: "29 de Noviembre 2022",
     sentence: "",
   },
   {
-    date: "13 de Diciembre",
+    date: "13 de Diciembre 2022",
     sentence:
       "Sinceramente me encanto esta foto, no crees que hacemos una linda pareja?",
   },
   {
-    date: "29 de Noviembre",
+    date: "29 de Noviembre 2022",
     sentence: "Soltera y sin compromiso.",
   },
   {
-    date: "13 de Noviembre",
+    date: "13 de Noviembre 2022",
     sentence:
       "After a long call with you yesterday, we're together, and falling in love each other. 1°",
   },
   {
-    date: "?? Agosto",
+    date: "?? Agosto 2022",
     sentence: "Regreso a clases, mismo interes, obviamente a tí.",
   },
   {
-    date: "13 de Diciembre",
+    date: "13 de Diciembre 2022",
     sentence:
       "Tan lindos nosotros, será que me arrepentire en un futuro de esto?",
   },
   {
-    date: "29 de Noviembre",
+    date: "29 de Noviembre 2022",
     sentence: "Dos muchachos sonrientes, sin saber que el futuro los uniría.",
   },
   {
-    date: "???",
+    date: "??? 2022",
     sentence:
       "Sin duda esta es una de mis favoritas, salgo horrible pero ese no es el caso.",
   },
   {
-    date: "?? Agosto",
+    date: "?? Agosto 2022",
     sentence:
       "No se si aun sabias que te seguia amando como la primera vez. na' creo 🦜",
   },
   {
-    date: "13 de Diciembre",
+    date: "13 de Diciembre 2022",
     sentence: "Porque paso un año tan rapido tras la ultima vez?, Lindo 16.",
   },
   {
-    date: "29 de Noviembre",
+    date: "29 de Noviembre 2022",
     sentence: "Ya te dije que amo esa sonrisa tuya?",
   },
   {
-    date: "5 de Noviembre",
+    date: "5 de Noviembre 2022",
     sentence:
       "Sin duda el ojo más lindo que he visto en mi vida, tan lindo como aquella vez en la que te vi en una pesadilla, sin duda fue pesadilla mas linda de mi vida. Cierto aun no me ducho, pero lo hare pronto.",
   },
   {
     date: "?? Agosto?",
     sentence: "Soy yo? o eres igual linda en cualquier parte?",
+  },
+  {
+    date: "13 Diciembre 2022",
+    sentence: "Dime que siempre vamos a estar juntos.",
+  },
+  {
+    date: "29 de Noviembre 2022",
+    sentence: "Fingamos que ya es amor si me tomas de la mano.",
+  },
+  {
+    date: "28 de Octubre 2022",
+    sentence: "Tú y tu cara con bigote. Amé.",
+  },
+  {
+    date: "?? Agosto 2022",
+    sentence: "You looked so nice that day.",
+  },
+  {
+    date: "29 de Noviembre 2022",
+    sentence: "Toma mi mano y vamonos de aquí.",
+  },
+  {
+    date: "24 de Octubre 2022",
+    sentence: "Cuantas veces tengo que decirte que amo esa sonrisa??",
+  },
+  {
+    date: "???",
+    sentence:
+      "Tu y yo, yo con corte de cabello nuevo y tu igual de linda como siempre.",
+  },
+  {
+    date: "",
+    sentence: "",
+  },
+  {
+    date: "",
+    sentence: "",
+  },
+  {
+    date: "",
+    sentence: "",
   },
   {
     date: "",

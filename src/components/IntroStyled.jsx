@@ -101,8 +101,9 @@ export const IntroStyled = ({ children }) => {
             <p>
               Despues de haber estado aproximadamente 8 horas detras de esto
               hago la primera entrega sobre este lindo album -aunque no es el
-              mejor lo seguire mejorando con el pasar del tiempo- con una
-              pequeña frase por foto que puedes hacer click en ella!
+              mejor lo seguire mejorando con el pasar del tiempo- para una
+              persona un tanto especial para mi, ademas de una pequeña frase por
+              foto que puedes hacer click en ella!
             </p>
             <p>
               Espero y sea de agrado esto y pues nada!. Casi lo olvido!, estare
