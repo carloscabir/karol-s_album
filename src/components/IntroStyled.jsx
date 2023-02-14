@@ -12,6 +12,10 @@ export const IntroStyled = ({ children }) => {
     flex-direction: column;
     justify-content: center;
     margin: 3rem;
+
+    @media screen and (max-height: 25em) {
+      min-height: 150vh;
+    }
   `;
 
   const IntroContent = styled.div`
@@ -39,6 +43,7 @@ export const IntroStyled = ({ children }) => {
 
   const MiddleContent = styled.div`
     position: absolute;
+    top: 30%;
     align-self: center;
     justify-self: center;
     text-align: center;
@@ -64,12 +69,21 @@ export const IntroStyled = ({ children }) => {
       font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
         "Lucida Sans", Arial, sans-serif;
     }
+
+    @media screen and (max-height: 33em) {
+      top: 0;
+    }
+
+    @media screen and (max-height: 25em) {
+      top: 5%;
+    }
   `;
 
   const TopContent = styled.div`
     position: absolute;
     bottom: 0;
     width: 100%;
+    height: 25vh;
     padding: 2rem;
     justify-self: center;
     align-self: center;
@@ -79,6 +93,16 @@ export const IntroStyled = ({ children }) => {
     outline: thin solid white;
     outline-offset: -0.5rem;
     transition: opacity 300ms ease;
+    overflow-y: scroll;
+
+    @media screen and (max-height: 25em) {
+      margin-top: 5rem;
+      min-height: 50vh;
+    }
+
+    @media screen and (min-width: 48em) {
+      max-width: 60vw;
+    }
   `;
 
   return (
@@ -115,12 +139,9 @@ export const IntroStyled = ({ children }) => {
       </ModalStyled>
       <TopContent>
         <iframe
-          style={{ borderRadius: "12px", minWidth: "100%", minHeight: "100%" }}
+          style={{ borderRadius: "12px", minWidth: "100%", height: "100%" }}
           src="https://open.spotify.com/embed/playlist/7I7i5Yg9k8IuWJ1Ebw3aAa?utm_source=generator"
-          width="80%"
-          height="152"
-          frameBorder="0"
-          allowfullscreen=""
+          allowFullScreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
           loading="lazy"
         ></iframe>
