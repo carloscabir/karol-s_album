@@ -73,7 +73,7 @@ video {
 
   background-color: #111;
   border: thin solid #000;
-  filter: blur(1px) opacity(0.7);
+  filter: opacity(0.9) saturate(1.1);
 
   transition: all 700ms ease-in-out;
 }

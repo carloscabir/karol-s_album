@@ -70,7 +70,7 @@ export const IntroStyled = ({ children }) => {
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 1rem;
+    padding: 2rem;
     justify-self: center;
     align-self: center;
     text-align: center;
@@ -115,7 +115,7 @@ export const IntroStyled = ({ children }) => {
       </ModalStyled>
       <TopContent>
         <iframe
-          style={{ borderRadius: "12px" }}
+          style={{ borderRadius: "12px", minWidth: "100%", minHeight: "100%" }}
           src="https://open.spotify.com/embed/playlist/7I7i5Yg9k8IuWJ1Ebw3aAa?utm_source=generator"
           width="80%"
           height="152"
