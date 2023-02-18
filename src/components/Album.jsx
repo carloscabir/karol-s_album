@@ -80,7 +80,6 @@ const pathsOfPhotos = [
   "IMG-20230113-WA0024.jpg",
   "IMG-20230121-WA0031.jpg",
   "IMG-20230109-WA0011.jpg",
-  "IMG-20230113-WA0013.jpg",
   "IMG-20230113-WA0025.jpg",
   "IMG-20230121-WA0032.jpg",
   "IMG-20230109-WA0012.jpg",
@@ -358,16 +357,102 @@ const quotes = [
       "Tu y tu linda sonrisa, en realidad sera tuya?, lo digo porque es tan linda que puede ser indepentiente",
   },
   {
-    date: "",
-    sentence: "",
+    date: "12 de Enero 2023",
+    sentence: "Ame esta escena, pero te amo más a tí.",
   },
   {
-    date: "",
-    sentence: "",
+    date: "13 de Enero 2023",
+    sentence: "But I've been the hardest to love.",
   },
   {
-    date: "",
-    sentence: "",
+    date: "21 de Enero 2023",
+    sentence: "Yo.",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Would you like to get married with me?",
+  },
+  {
+    date: "12 de Enero 2023",
+    sentence: "Why are you so pretty?",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Amo sacas fotos tipo.",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "yo",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence:
+      "Ese dia estaba algo cansado pero al estar contigo hiciste olvidarme de esos problemas.",
+  },
+  {
+    date: "12 de Enero 2023",
+    sentence: "Yo cuando tenia cabello.",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Why I'm falling in love again?",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence:
+      "Recuerdo que esta fue la primera foto que me tomaste en aquel dia. 🦜",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Tu me dijiste que sonriera xd",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "YA NO ME TOMES FOTOS DISTRAIDOOO -cara de pelotudo-",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Amo hacer eso sabes?",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence:
+      "Sabes que el album de After Hours de The weeknd trata sobre un error que cometio a su pareja?. Por cierto, me gustas.",
+  },
+  {
+    date: "9 de Enero 2023",
+    sentence: "Mal trio, pero creo que salimos bien.",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence:
+      "Aveces frio y aveces como un niño que no se quiere despegar de ti. (?)",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "In your eyes.",
+  },
+  {
+    date: "9 de Enero 2023",
+    sentence: "I like you",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence:
+      "Quieres ser mi novia de nuevo?. Por si cortamos te recordare que somos dos veces novios; algo tonto pero eficiente 😽",
+  },
+  {
+    date: "13 de Enero 2023",
+    sentence: "Puse las imagenes muy separadas, lo sé, peroooo ola",
+  },
+  {
+    date: "21 de Enero 2023",
+    sentence: "Y llegamos casi al final. 😁🤨",
+  },
+  {
+    date: "13 de Diciembre 2022",
+    sentence:
+      "Se que aveces existen conflictos y todo llega a terminar en algun momento, pero sin duda tu seras alguien quien recordare mucho en el resto de mi vida. No quiero que esto sea solo una 'aventura', sino algo inolvidable. tqm k",
   },
 ];
 
